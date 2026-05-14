@@ -125,11 +125,6 @@ Contributions are welcome! Feel free to fork the repo and submit a pull request.
 ---
 
 ## 👤 Author
-
-**Krishna Gupta**
-
-* LinkedIn: [https://www.linkedin.com/in/krishna-gupta-536316281/](https://www.linkedin.com/in/krishna-gupta-536316281/)
-
 ---
 
 ⭐ If you like this project, don’t forget to star the repository!
